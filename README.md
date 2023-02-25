@@ -8,7 +8,7 @@
 <img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/>
 </a>
 <a href="https://stackoverflow.name/eve" target="blank">
-<img src="https://www.flaticon.com/free-icon/stack-overflow_2111628" alt="Stack Overflow" height="50px"/></a>
+<img src="https://github.com/ivana-helvin/ivana/blob/main/stack-overflow.png" alt="Stack Overflow" height="50px"/></a>
 </a>
 <a href="mailto:ivana.helvin@gmail.com" target="_blank">
 <img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px" /></a>
