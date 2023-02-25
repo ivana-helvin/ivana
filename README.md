@@ -19,7 +19,10 @@
 
  
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivana-helvin&show_icons=true)
+
  
+![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-helvin&theme=blue-green)
+  
 <br/>
 
 <p align="left">
