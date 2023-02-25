@@ -2,7 +2,9 @@
 
 :triangular_flag_on_post: I’m currently working on <b> React Project </b> <br/>
 🌱 I’m currently learning <b> REACT and NodeJs. </b><br/>
-<hr/>
+
+<br/>
+
 📫 How to reach me: <br/>
 <a href="https://www.linkedin.com/in/ivanahelvin/" target="_blank">
 <img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" alt="Linkedin" height="50px"/>
@@ -13,7 +15,7 @@
 <a href="mailto:ivana.helvin@gmail.com" target="_blank">
 <img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px" /></a>
 
-<hr/>
+<br/>
 
 <p align="left">
 <a href="https://github.com/ivana-helvin">
