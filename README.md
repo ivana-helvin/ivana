@@ -18,16 +18,7 @@
 <br/>
 
  
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivana-helvin&show_icons=true)
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivana-helvin&show_icons=true&include_all_commits=true&count_private=true)
 
  
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-helvin&theme=blue-green)
-  
-<br/>
-
-<p align="left">
-<a href="https://github.com/ivana-helvin">
-  <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivana-helvin&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-helvin&layout=compact"/>
-</a>
-</p>
+![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivana-helvin)
