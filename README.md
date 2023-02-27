@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 :triangular_flag_on_post: I’m currently working on <b> React Project </b> <br/>
-🌱 I’m currently learning <b> REACT and NodeJs. </b><br/>
+🌱 I’m currently learning <b> REACT </b>and<b>NodeJs. </b><br/>
 
 <br/>
 
