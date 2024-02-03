@@ -14,8 +14,3 @@
 </a>&nbsp;
 <a href="mailto:ivana.helvin@gmail.com" target="_blank">
 <img src="https://icons-for-free.com/iconfiles/png/512/high+quality+mail+media+social+social+media+square+icon-1320192616401317183.png" alt="mail" height="50px" /></a>
-
-<br/>
-
- 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=ivana-helvin&show_icons=true&include_all_commits=true&count_private=true)
